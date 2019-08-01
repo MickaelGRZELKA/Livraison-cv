@@ -1,1 +1,36 @@
+body{
+    margin-left: 20px;
+    margin-right: 20px;
+}
 
+.Header{
+    background-color:black;
+    color: white;
+    margin-right: 25%;
+}
+.Aside{
+    background-color:grey;
+    color: white;
+    float: right;
+    padding-bottom: 25%;
+    margin-top: -103px;
+}
+.Aside img{
+    width: 50vh;
+    margin-left: 1.5px;
+    display: flex;  
+}
+
+.Aside h3{
+    margin-top: 70px;
+    text-align: center;
+}
+.Aside .ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.Aside p{
+    text-align: center;
+}
